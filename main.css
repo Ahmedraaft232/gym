@@ -89,6 +89,8 @@
     font-size: 4rem;
     margin-bottom: 0;
     color: var(--light);
+  
+    
   }
   
   .showcase p {
@@ -131,6 +133,7 @@
     text-align: center;
     padding: 1.5rem 2rem;
     box-shadow: var(--shadow);
+   
   }
   
   /* Info */
@@ -162,6 +165,10 @@
     color: var(--light);
     text-align: center;
     padding: 1rem;
+background-image: url(footer-bg.webp);  
+  background-size:cover;
+    background-repeat: no-repeat;
+   
   }
   
   /* Media Queries */
